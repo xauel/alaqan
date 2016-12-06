@@ -1,1 +1,11 @@
 /* Custom CSS overrides */
+#header-top { 
+	background-color: #fcfcfc; 
+	border-bottom: 1px dashed #eaeaea; 
+	position: relative; 
+	z-index: 12; 
+	min-height: 45px; 
+    font: 14px PT Sans,sans-serif;
+    font-weight: 700;
+	color: #00283d;
+} 

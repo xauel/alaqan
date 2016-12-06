@@ -56,7 +56,6 @@ function bootstrap_business_form_system_theme_settings_alter(&$form, &$form_stat
           '3.2.0',
         )),
         '#default_value' => theme_get_setting('bootstrap_css_cdn'),
-		'#empty_option' => t('Disabled'),
         '#empty_value' => NULL,
     );
     
