@@ -1,4 +1,8 @@
 /* Custom CSS overrides */
+p { 
+	margin: 0 0 0.75em;
+    padding: 0;
+}
 #header-top { 
 	background-color: #fcfcfc; 
 	border-bottom: 1px dashed #eaeaea; 
@@ -6,6 +10,7 @@
 	z-index: 12; 
 	min-height: 45px; 
     font: 14px PT Sans,sans-serif;
-    font-weight: 700;
+    font-weight: 500;
 	color: #00283d;
+	padding: 10px 0 0 0;
 } 
